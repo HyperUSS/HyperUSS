@@ -1,0 +1,5 @@
+/data/Criteo/**
+/data/CAIDA/**
+/data/NBA/**
+/data/Synthetic/*.txt
+/CPU/build/**
